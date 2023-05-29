@@ -1,0 +1,277 @@
+
+
+.gp-comment-container {
+    border: 3px solid #000000;
+    border-radius: 25px;
+    padding: 10px;
+  }
+  
+.gp-comment-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gp-comment {
+    margin: 10px 0;
+  }
+  
+  .gp-comment-avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .gp-comment-content {
+    overflow: hidden;
+  }
+  
+  .gp-comment-meta {
+    font-size: 14px;
+      font-family:sans-serif;
+  }
+  
+  .gp-comment-author {
+    font-weight: bold;
+      font-family:sans-serif;
+  }
+  
+  .gp-comment-text {
+    margin-top: 5px;
+      font-family:sans-serif;
+  }
+  
+  .gp-comment-reply-link {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .form-outline{
+      width:100%;
+      border-radius:10px;
+      border-color:#000000 !important;
+      border-width:2px !important;
+  }
+  .form-control{
+      border:none !important;
+      font-family:sans-serif;
+  }
+  
+
+.gp-comment-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.gp-comment {
+  margin-bottom: 20px;
+}
+
+.gp-comment-container {
+  display: flex;
+  width: 80%;
+  height: 80%;
+}
+
+.gp-comment-avatar {
+  margin-right: 20px;
+}
+
+.gp-comment-content {
+  flex-grow: 1;
+}
+
+.gp-comment-meta {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.gp-comment-author {
+  font-weight: bold;
+}
+
+.gp-comment-text {
+  margin-bottom: 10px;
+}
+
+.comment-reply-link {
+  font-size: small;
+}
+
+
+.gp-comment-list {
+    columns: 2;
+    text-align: center;
+}
+
+.gp-comment {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gp-comment-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gp-comment {
+    margin: 10px 0;
+  }
+  
+  .gp-comment-avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .gp-comment-content {
+    overflow: hidden;
+  }
+  
+  .gp-comment-meta {
+    font-size: 14px;
+  }
+  
+  .gp-comment-author {
+    font-weight: bold;
+  }
+  
+  .gp-comment-text {
+    margin-top: 5px;
+  }
+  
+  .gp-comment-reply-link {
+    display: block;
+    margin-top: 5px;
+  }
+  .gp-comment-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gp-comment {
+    margin: 10px 0;
+  }
+  
+  .gp-comment-avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .gp-comment-content {
+    overflow: hidden;
+  }
+  
+  .gp-comment-meta {
+    font-size: 14px;
+  }
+  
+  .gp-comment-author {
+    font-weight: bold;
+  }
+  
+  .gp-comment-text {
+    margin-top: 5px;
+  }
+  
+  .gp-comment-reply-link {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .gp-comment-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gp-comment {
+    margin: 10px 0;
+  }
+  
+  .gp-comment-avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .gp-comment-content {
+    overflow: hidden;
+  }
+  
+  .gp-comment-meta {
+    font-size: 14px;
+  }
+  
+  .gp-comment-author {
+    font-weight: bold;
+  }
+  
+  .gp-comment-text {
+    margin-top: 5px;
+  }
+  
+  .gp-comment-reply-link {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .form-outline{
+      width:100%;
+      border-radius:10px;
+      border-color:#000000 !important;
+      border-width:2px !important;
+  }
+  .form-control{
+      border:none !important;
+  }
+  
+  .gp-comment-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .gp-comment {
+    margin: 10px 0;
+  }
+  
+  .gp-comment-avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .gp-comment-content {
+    overflow: hidden;
+  }
+  
+  .gp-comment-meta {
+    font-size: 14px;
+  }
+  
+  .gp-comment-author {
+    font-weight: bold;
+  }
+  
+  .gp-comment-text {
+    margin-top: 5px;
+      font-family:sans-serif;
+  }
+  
+  .gp-comment-reply-link {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  .form-outline{
+      width:100%;
+      border-radius:10px;
+      border-color:#000000 !important;
+      border-width:2px !important;
+  }
+  .form-control{
+      border:none !important;
+      font-family:sans-serif;
+  }
+  

@@ -60,10 +60,12 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Front-Foro-JSON:build:production"
+              "browserTarget": "Front-Foro-JSON:build:production",
+              "proxyConfig": "proxy.conf.json"
             },
             "development": {
-              "browserTarget": "Front-Foro-JSON:build:development"
+              "browserTarget": "Front-Foro-JSON:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

@@ -1,0 +1,99 @@
+<section class="vh-100">
+    <div class="container-fluid h-custom">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-20 col-lg-7 col-xl-5 justify-content-center">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                    class="img-fluid" alt="Sample image">
+            </div>
+            <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+                <form>
+                    <!-- Email input -->
+                    <div style="text-align:center;">
+                        <h1>Conversemos 🤓</h1>
+                        <br>
+                        <br>
+                      </div>
+                      
+                    <div class="form-outline mb-4">
+                        <input [(ngModel)]="foro.user" type="email" id="form3Example3" name="user" class="form-control form-control-lg"
+                            placeholder="Ingresa tu nombre" />
+                    </div>
+                    <div class="form-outline mb-4">
+                        <input [(ngModel)]="foro.topic" type="email" id="form3Example3" name="topic"class="form-control form-control-lg"
+                            placeholder="Ingresa un Nuevo tema" />
+                    </div>
+                    <div class="text-center text-lg-start mt-4 pt-2">
+                        <button (click)="agregarForo()" type="button" class="btn btn-primary btn-lg" style="padding-left: 2.5rem; padding-right: 2.5rem;">Ingresar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="text-center text-lg-start bg-light text-muted">
+    <!-- Section: Social media -->
+    <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+ 
+      <!-- Right -->
+    </section>
+    <!-- Section: Social media -->
+  
+    <!-- Section: Links  -->
+    <section class="">
+      <div class="container text-center text-md-start mt-5">
+        <!-- Grid row -->
+        <div class="row mt-3">
+          <!-- Grid column -->
+          <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+            <!-- Content -->
+            <h6 class="text-uppercase fw-bold mb-4">
+              <i class="fas fa-gem me-3"></i>Simple FORO
+            </h6>
+          </div>
+          <!-- Grid column -->
+  
+          <!-- Grid column -->
+          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold mb-4">
+              Used tools
+            </h6>
+            <p>
+              <a href="https://angular.io/" class="text-reset">Angular</a>
+            </p>
+            <p>
+              <a href="https://expressjs.com/" class="text-reset">Express</a>
+            </p>
+            <p>
+              <a href="https://www.json.org/json-es.html" class="text-reset">JSON</a>
+            </p>
+
+          </div>
+          <!-- Grid column -->
+          <!-- Grid column -->
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+            <p><i class="fas fa-home me-3"></i> Quito, Ecuador</p>
+            <p>
+              <i class="fas fa-envelope me-3"></i>
+              marioandres.1996@icloud.com
+            </p>
+            <p><i class="fas fa-phone me-3"></i> + 593 980603551</p>
+          </div>
+          <!-- Grid column -->
+        </div>
+        <!-- Grid row -->
+      </div>
+    </section>
+    <!-- Section: Links  -->
+  
+    <!-- Copyright -->
+    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+      © 2023 Created by Mario Muñoz
+    </div>
+    <!-- Copyright -->
+  </footer>
+  <!-- Footer -->
